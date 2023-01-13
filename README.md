@@ -6,11 +6,11 @@ Time-frame Considered: Jan 10, 2009 - December 31, 2016
 
 The table below shows the column names, their value formats, and their description:
 
-Index	Features	Format	Description
-1	Date Time	01.01.2009 00:10:00	Date-time reference
-2	p (mbar)	996.52	The pascal SI derived unit of pressure used to quantify internal pressure. Meteorological reports typically state atmospheric pressure in millibars.
-3	T (degC)	-8.02	Temperature in Celsius
-4	Tpot (K)	265.4	Temperature in Kelvin
+Index	Features	Format	Description  
+1	Date Time	01.01.2009 00:10:00	Date-time reference  
+2	p (mbar)	996.52	The pascal SI derived unit of pressure used to quantify internal pressure. Meteorological reports typically state atmospheric pressure in millibars.  
+3	T (degC)	-8.02	Temperature in Celsius  
+4	Tpot (K)	265.4	Temperature in Kelvin  
 5	Tdew (degC)	-8.9	Temperature in Celsius relative to humidity. Dew Point is a measure of the absolute amount of water in the air, the DP is the temperature at which the air cannot hold all the moisture in it and water condenses.
 6	rh (%)	93.3	Relative Humidity is a measure of how saturated the air is with water vapor, the %RH determines the amount of water contained within collection objects.
 7	VPmax (mbar)	3.33	Saturation vapor pressure
