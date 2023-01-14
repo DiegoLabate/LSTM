@@ -1,1 +1,1 @@
-# Several projects I made using RNN LSTM network. 
+Several projects I made using RNN LSTM network. 
