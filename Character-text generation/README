@@ -1,1 +1,2 @@
-
+This example demonstrates how to use a LSTM model to generate text character-by-character.
+From F. Chollet example
